@@ -1,8 +1,11 @@
 # n8n-ikaue-nodes
 
-This is a n8n community node. It contains some custom modifications of the Google BigQuery and Google Search Console nodes, made by IKAUE. 
+Here you have an n8n* community node package developed by IKAUE that will help you with your BigQuery and Google Search Console data. What's different from previous n8n* nodes?
 
-These custom modifications allow the user to insert custom queries when using these nodes.
+
+* With our BigQuery node, you can extract tables and run SQL customizable queries to get only the exact data you want.
+
+* And with our Google Search Console node, you can also extract its data via API.
 
 Link to NPM node page: https://www.npmjs.com/package/n8n-ikaue-nodes
 
@@ -19,16 +22,6 @@ Link to NPM node page: https://www.npmjs.com/package/n8n-ikaue-nodes
 ## Installation
 
 Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation.
-
-## Operations
-
-All the BigQuery operations, + a query operation to be able to use custom queries if needed.
-All the GSC operations, + a query operation to be able to use custom queries if needed.
-
-## Credentials
-
-Same as the BigQuery node, you need to either use OAuth2 or a service account.
-Same as the GSC node, you need to either use OAuth2 or a service account.
 
 ## Resources
 
