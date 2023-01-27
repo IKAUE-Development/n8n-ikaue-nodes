@@ -7,8 +7,6 @@ Here you have an n8n* community node package developed by IKAUE that will help y
 
 * And with our Google Search Console node, you can also extract its data via API.
 
-Link to NPM node page: https://www.npmjs.com/package/n8n-ikaue-nodes
-
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 [Installation](#installation)  
