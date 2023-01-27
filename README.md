@@ -4,6 +4,8 @@ This is a n8n community node. It contains some custom modifications of the Googl
 
 These custom modifications allow the user to insert custom queries when using these nodes.
 
+Link to NPM node page: https://www.npmjs.com/package/n8n-ikaue-nodes
+
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 [Installation](#installation)  
