@@ -1,6 +1,6 @@
-# n8n-ikaue-additional-nodes
+# n8n-ikaue-nodes
 
-This is an n8n community node. It contains some custom modifications of the Google BigQuery and Google Search Console nodes, made by IKAUE. 
+This is a n8n community node. It contains some custom modifications of the Google BigQuery and Google Search Console nodes, made by IKAUE. 
 
 These custom modifications allow the user to insert custom queries when using these nodes.
 
